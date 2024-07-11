@@ -9,4 +9,4 @@
 ![压缩](https://cdn.jsdelivr.net/gh/No-22-Github/Blog_imgs/imgs/压缩.jpg)
 ![爱丽丝](https://cdn.jsdelivr.net/gh/No-22-Github/Blog_imgs/imgs/爱丽丝.png)
 ![霞泽美游](https://cdn.jsdelivr.net/gh/No-22-Github/Blog_imgs/imgs/霞泽美游.png)
-![lora训练入门题头图](https://cdn.jsdelivr.net/gh/No-22-Github/Blog_imgs/imgs/lora训练入门题头图.png)
+https://cdn.jsdelivr.net/gh/No-22-Github/Blog_imgs/imgs/lora训练入门.png
