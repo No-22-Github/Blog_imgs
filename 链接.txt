@@ -22,3 +22,4 @@
 ![cosine余弦](https://cdn.jsdelivr.net/gh/No-22-Github/Blog_imgs/imgs/cosine余弦.png)
 ![cosine_with_restarts带重启的余弦](https://cdn.jsdelivr.net/gh/No-22-Github/Blog_imgs/imgs/cosine_with_restarts带重启的余弦.png)
 ![constant常量](https://cdn.jsdelivr.net/gh/No-22-Github/Blog_imgs/imgs/constant常量.png)
+![loss值概览](https://cdn.jsdelivr.net/gh/No-22-Github/Blog_imgs/imgs/loss值概览.png)
